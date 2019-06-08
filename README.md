@@ -10,6 +10,9 @@ Important links to read on
 - Store your birth year in a variable.
 - Store a future year in a variable.
 - Calculate your 2 possible ages for that year based on the stored values.
+Var=1992;
+Var=2019;
+Var=27
 
 2. 
 - Store your current age into a variable.
